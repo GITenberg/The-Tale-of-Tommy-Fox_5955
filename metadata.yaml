@@ -1,0 +1,37 @@
+_repo: The-Tale-of-Tommy-Fox_5955
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bailey, Arthur Scott
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '1842'
+    url: http://www.gutenberg.org/2009/agents/1842
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Scott_Bailey
+description: For a long time Tommy waited there. He kept very still. And he stayed
+  hidden behind the tree, with only one eye peeping round the tree- trunk, so that
+  he could watch for Mr. Woodchuck. He was very patient-- was Tommy. You have to be
+  patient, you know, when you are hunting. He crouched behind the tree for at least
+  an hour, and never once took his eye off that hole. And at last he saw Mr. Woodchuck's
+  nose come popping out.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Wild animals as pets -- Juvenile fiction'
+- !lcsh 'Foxes -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- GITenberg
+title: The Tale of Tommy Fox
+url: http://www.gutenberg.org/ebooks/5955
