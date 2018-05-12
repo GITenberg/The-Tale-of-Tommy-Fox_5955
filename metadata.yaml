@@ -1,5 +1,8 @@
 _repo: The-Tale-of-Tommy-Fox_5955
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bailey, Arthur Scott
@@ -14,6 +17,8 @@ description: For a long time Tommy waited there. He kept very still. And he stay
   patient, you know, when you are hunting. He crouched behind the tree for at least
   an hour, and never once took his eye off that hole. And at last he saw Mr. Woodchuck's
   nose come popping out.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5955#The-Tale-of-Tommy-Fox
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
